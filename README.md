@@ -2,8 +2,8 @@
 
 a simple digital business card built with HTML and CSS, including my name, title, location, and a photo. it's a clean first project to get comfortable writing real code and actually shipping something to the web.
 
-tech stack: HTML, CSS
-live site: patt-business-card.netlify.app
+**tech stack:** HTML, CSS
+**live site:** patt-business-card.netlify.app
 
 thanks for stopping by :)
 
