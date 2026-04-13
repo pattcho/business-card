@@ -4,8 +4,6 @@ a simple digital business card built with HTML and CSS, including my name, title
 
 **tech stack:** HTML, CSS
 
-**live site:** patt-business-card.netlify.app
-
 thanks for stopping by :)
 
 ## about me
